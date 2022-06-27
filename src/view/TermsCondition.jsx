@@ -1,9 +1,11 @@
 import React from "react";
 import Footer from "../components/Footer";
+import Hero from "../components/Hero";
 
 const TermsCondition = () => {
   return (
     <>
+      <Hero />
       <section className="position-relative">
         <div className="container">
           <div className="row justify-content-center">

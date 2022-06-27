@@ -4,7 +4,7 @@ import insta from "../assets/img/Webp/instgram-icon.webp";
 import twitter from "../assets/img/Webp/twitter-icon.webp";
 import teligram from "../assets/img/Webp/teligram-icon.webp";
 import cart from "../assets/img/Webp/cart-img.webp";
-
+import { Link, withRouter } from "react-router-dom";
 const Hero = () => {
   const [navOverlay, setNavOverlay] = useState(false);
   if (navOverlay) {
@@ -100,9 +100,9 @@ const Hero = () => {
               </ul>
             </div>
             <div className="col-3">
-              <a href="#logo">
+              <Link to="/">
                 <img className="w-100" src={logo} alt="navlogo" />
-              </a>
+              </Link>
             </div>
             <div className="col-4 ">
               <div className="text-end">
@@ -158,4 +158,4 @@ const Hero = () => {
   );
 };
 
-export default Hero;
+export default withRouter(Hero);
