@@ -83,7 +83,7 @@ const Footer = () => {
               </ul>
 
               <ul className="list_style_type_none">
-                <li className="fs_xs fw_bold color_primary ff_arial line_height24 fs_3xs color_primary fw_regular ff_inter line_height16">
+                <li className="fs_xs fw_bold color_primary ff_arial line_height24 fs_3xs color_primary fw_regular ff_inter ">
                   Support
                 </li>
                 <Link to="/terms-condition" className="mt-3 hover_color">
