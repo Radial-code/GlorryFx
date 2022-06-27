@@ -19,10 +19,9 @@ const Velittempor = () => {
                 Immediate Updates
               </h1>
               <p className="para">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Facilis adipisci molestiae eaque voluptas porro dignissimos!
-                Veniam, architecto. Expedita tempora quis fugit architecto
-                recusandae. Repudiandae fugit a magni eaque in ratione.
+                No matter where you're are, we'll always update you in a timely
+                manner. Never miss an update by turning on your notifications.
+                Completely elevate your trading career NOW!
               </p>
             </div>
           </div>

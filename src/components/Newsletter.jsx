@@ -45,10 +45,10 @@ const Newsletter = () => {
                 data-aos="zoom-in-left"
                 data-aos-duration="1000"
               >
-                <h3 className="fs_3xl  fw_semibold ff_raleway color_primary">
+                <h3 className="fs_3xl  fw_semibold ff_raleway color_primary  ">
                   Subscribe to Our Newsletter
                 </h3>
-                <p className="fs_xxs fw_regular color_primary line_height_25  ff_arial">
+                <p className="para">
                   Dolor mattis quisque curabitur lacus, pharetra sem leo.
                   Elementum libero.
                 </p>

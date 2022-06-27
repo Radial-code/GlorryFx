@@ -196,11 +196,12 @@ code {
   color: var(--color_primary);
 }
 .para {
-  font-size: var(--fs_xs);
-  font-weight: var(--fw_regular);
-  font-family: var(--ff_arial);
-  color: var(--color_primary);
-  line-height: 26px;
+  font-size: var(--fs_xs) !important;
+  font-weight: var(--fw_regular) !important;
+  font-family: var(--ff_arial) !important;
+  color: var(--color_primary) !important;
+  line-height: 26px !important;
+  opacity: 0.9 !important;
 }
 /* ==========LINE HEIGHT========== */
 
@@ -237,6 +238,9 @@ code {
 /*================================ BENEFITS-CLASSES ==================================*/
 .bg_benefits {
   background: #131313;
+}
+.opacity_07 {
+  opacity: 0.7;
 }
 
 .benefits_card {

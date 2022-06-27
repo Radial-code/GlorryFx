@@ -48,9 +48,9 @@ const Footer = () => {
                 <li className="fs_xs fw_bold color_primary ff_arial line_height24 ">
                   Company
                 </li>
-                <li className="mt-2 hover_color">
+                <li className="mt-2 hover_color opacity_07">
                   <a
-                    className="fs_3xs color_primary fw_regular ff_inter line_height16"
+                    className="fs_3xs color_primary fw_regular ff_inter line_height16 opacity_07"
                     href="#About"
                   >
                     About
@@ -58,7 +58,7 @@ const Footer = () => {
                 </li>
                 <li className="mt-2 hover_color">
                   <a
-                    className="fs_3xs color_primary fw_regular ff_inter line_height16"
+                    className="fs_3xs color_primary fw_regular ff_inter line_height16 opacity_07"
                     href="#Pricing"
                   >
                     Pricing
@@ -66,7 +66,7 @@ const Footer = () => {
                 </li>
                 <li className="mt-2 hover_color">
                   <a
-                    className="fs_3xs color_primary fw_regular ff_inter line_height16"
+                    className="fs_3xs color_primary fw_regular ff_inter line_height16 opacity_07"
                     href="#Testimonials"
                   >
                     Testimonials
@@ -74,7 +74,7 @@ const Footer = () => {
                 </li>
                 <li className="mt-2 hover_color">
                   <a
-                    className="fs_3xs color_primary fw_regular ff_inter line_height16"
+                    className="fs_3xs color_primary fw_regular ff_inter line_height16 opacity_07"
                     href="#FAQs"
                   >
                     FAQs
@@ -87,7 +87,7 @@ const Footer = () => {
                   Support
                 </li>
                 <Link to="/terms-condition" className="mt-3 hover_color">
-                  <p className="fs_3xs color_primary fw_regular ff_inter line_height16 pt-3">
+                  <p className="fs_3xs color_primary fw_regular ff_inter line_height16 pt-3 opacity_07">
                     Term and Conditions
                   </p>
                 </Link>

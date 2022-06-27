@@ -41,7 +41,7 @@ const financial = () => {
                 <h2 className=" fs_sm_29 fs_xxl fw_semibold color_primary ff_raleway pe-md-4 pe-lg-0  line_height52 line_md_height41 line_sm_height30">
                   Financial Freedom is Closer Than You Think…
                 </h2>
-                <p className="fw_regular fs_3xs ff_arial color_primary line_height26 line_sm_height18">
+                <p className="finacial_pg  ">
                   Fully understanding the market is the key to seeing financial
                   change. We are seeing hundreds of our students:
                 </p>

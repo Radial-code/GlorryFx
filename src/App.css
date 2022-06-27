@@ -360,6 +360,7 @@ nav ul {
   font-weight: var(--fw_regular);
   font-family: "arial";
   line-height: 26px;
+  opacity: 0.89;
 }
 
 .list_style_type_none {
@@ -434,6 +435,7 @@ nav ul {
   }
   .finacial_pg {
     font-size: 12px !important;
+    line-height: 18px;
   }
 }
 
