@@ -8,8 +8,8 @@ import TermsCondition from "./view/TermsCondition";
 function App() {
   return (
     <Switch>
-      <Route path="/" exact component={Main} />
-      <Route path="/terms-condition" exact component={TermsCondition} />
+      <Route exact path="/" component={Main} />
+      <Route exact path="/terms-condition" component={TermsCondition} />
     </Switch>
   );
 }

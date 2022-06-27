@@ -1,4 +1,5 @@
 import React from "react";
+import Footer from "../components/Footer";
 
 const TermsCondition = () => {
   return (
@@ -135,6 +136,7 @@ const TermsCondition = () => {
           </div>
         </div>
       </section>
+      <Footer />
     </>
   );
 };
