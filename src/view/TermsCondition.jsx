@@ -10,7 +10,7 @@ const TermsCondition = () => {
   return (
     <>
       <Hero />
-      <section className="position-relative pt-5 mt-xl-5">
+      <section className="position-relative pt-5 mt-xl-5 z_index1">
         <div className="position-absolute start-0 top-0 w-25 d-none d-md-block">
           <img className="w-100" src={blueshadeimg} alt="blueshadeimg" />
         </div>
