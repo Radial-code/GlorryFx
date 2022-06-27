@@ -1,14 +1,18 @@
 import React from "react";
 import Footer from "../components/Footer";
 import Hero from "../components/Hero";
+import blueshadeimg from "../assets/img/Webp/termscondition-blueshade.webp";
 
 const TermsCondition = () => {
   return (
     <>
       <Hero />
-      <section className="position-relative">
+      <section className="position-relative pt-5 mt-xl-5">
+        <div className="position-absolute start-0 top-0 w-25 d-none d-md-block">
+          <img className="w-100" src={blueshadeimg} alt="blueshadeimg" />
+        </div>
         <div className="container">
-          <div className="row justify-content-center">
+          <div className="row justify-content-center z-100 position-relative">
             <div className="col-11 col-md-12">
               <h2 className="terms_heading pb-1 pb-md-3">
                 TERMS &<span className="d-block d-md-inline"> CONDITIONS</span>
