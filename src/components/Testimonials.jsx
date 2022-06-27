@@ -15,7 +15,7 @@ const Testimonials = () => {
             <div className="col-11 col-lg-6 ">
               <div
                 id="carouselExampleFade"
-                className="carousel slide pe-xl-5 carousel-fade"
+                className="carousel slide pe-xl-5 mb-2 carousel-fade"
                 data-bs-ride="carousel"
               >
                 <div className="carousel-inner">
