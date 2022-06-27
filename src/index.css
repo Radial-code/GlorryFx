@@ -202,6 +202,8 @@ code {
   color: var(--color_primary);
   line-height: 26px;
 }
+/* ==========LINE HEIGHT========== */
+
 .line_height66 {
   line-height: 66px !important;
 }
@@ -355,6 +357,7 @@ li
   bottom: 0;
   top: 0;
   left: 0;
+  overflow: hidden;
 }
 @media (max-width: 786px) {
   .imdiate_section_sm_bg_img {
@@ -733,4 +736,27 @@ li
   background-size: cover;
   background-position: center;
   min-height: 35vh;
+}
+/* ==============TERMS & CONDITIONS============== */
+.terms_heading {
+  font-size: var(--fs_3xl);
+  font-weight: var(--fw_semibold);
+  color: var(--color_primary);
+  font-family: var(--ff_raleway);
+  line-height: 68px;
+}
+.terms_para {
+  font-size: var(--fs_xs);
+  color: var(--color_primary);
+  font-weight: var(--fw_regular);
+  font-family: var(--ff_arial);
+  line-height: 26px;
+}
+@media (max-width: 992.98px) {
+  .terms_heading {
+    line-height: 37px;
+  }
+  .terms_para {
+    line-height: 24px;
+  }
 }

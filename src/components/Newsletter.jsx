@@ -39,7 +39,7 @@ const Newsletter = () => {
                 />
               </div>
             </div>
-            <div className=" col-11 col-md-8 col-lg-6 col-xl-5 p_relative">
+            <div className=" col-11 col-md-8 col-lg-6 col-xl-5 z-100 position-relative">
               <div
                 className="text-center z_index5 text-lg-start pe-xxl-5 me-xxl-5"
                 data-aos="zoom-in-left"

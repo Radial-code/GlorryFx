@@ -506,7 +506,6 @@ input {
     filter: blur(100px);
     height: 200px;
     width: 300px;
-    z-index: 1;
     display: inline-block !important;
   }
 }
