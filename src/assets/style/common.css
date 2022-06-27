@@ -1,0 +1,126 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+
+* {
+  padding: 0px;
+  margin: 0px;
+  text-decoration: none;
+  /* list-style-type: none; */
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  transition: all 0.5s ease;
+}
+
+@font-face {
+  font-family: "arial";
+  src: url("../fonts/ArialMdm.ttf");
+}
+
+:root {
+  /*=================== FONT-SIZE ============== */
+  --fs_input_box: 10px;
+  --fs_input_btn: 14px;
+  --fs_rare: 12px;
+  --fs_para: 16px;
+  --fs_xxs: 18px;
+  --fs_xs: 20px;
+  --fs_sm: 22px;
+  --fs_md: 25px;
+  --fs_lg: 49px;
+  --fs_xl: 58px;
+  --fs_xxl: 66px;
+
+  /*=================== FONT-SIZE ============== */
+  --fw_regular: 400;
+  --fw_medium: 500;
+  --fw_semibold: 600;
+  --fw_bold: 700;
+
+  /*=================== FONT-SIZE ============== */
+  --ff_raleway: "Raleway";
+  --ff_arial: "arial";
+  --ff_inter: "Inter";
+
+  /*=================== FONT-SIZE ============== */
+  --color_primary: rgba(255, 255, 255, 1);
+}
+
+.fs_input_box {
+  font-size: var(--fs_input_box);
+}
+
+.fs_input_btn {
+  font-size: var(--fs_input_btn);
+}
+
+.fs_rare {
+  font-size: var(--fs_rare);
+}
+
+.fs_para {
+  font-size: var(--fs_para);
+}
+
+.fs_xxs {
+  font-size: var(--fs_xxs);
+}
+
+.fs_xs {
+  font-size: var(--fs_xs);
+}
+
+.fs_sm {
+  font-size: var(--fs_sm);
+}
+
+.fs_md {
+  font-size: var(--fs_md);
+}
+
+.fs_lg {
+  font-size: var(--fs_lg);
+}
+
+.fs_xl {
+  font-size: var(--fs_xl);
+}
+
+.fs_xxl {
+  font-size: var(--fs_xxl);
+}
+
+.fw_normal {
+  font-weight: var(--fw_normal);
+}
+
+.fw_regular {
+  font-weight: var(--fw_regular);
+}
+
+.fw_semibold {
+  font-weight: var(--fw_semibold);
+}
+
+.fw_bold {
+  font-weight: var(--fw_bold);
+}
+
+.ff_raleway {
+  font-family: var(--ff_raleway);
+}
+
+.ff_arial {
+  font-family: var(--ff_arial);
+}
+
+.ff_inter {
+  font-family: var(--ff_inter);
+}
+
+.color_primary {
+  color: var(--color_primary);
+}
+
+.z-1 {
+  z-index: 1;
+}
