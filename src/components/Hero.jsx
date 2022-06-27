@@ -129,9 +129,9 @@ const Hero = () => {
               py-3 d-block d-lg-none"
       >
         <div className="container-fluid px-sm-4 px-2">
-          <a className="col-4" href="#">
+          <Link className="" to="/" href="#">
             <img className="w-100" src={logo} alt="navlogo" />
-          </a>
+          </Link>
           <div className="d-flex align-items-center justify-content-between">
             <div className="text-end">
               <a href="#">
