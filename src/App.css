@@ -668,3 +668,22 @@ input {
     justify-content: center;
   }
 }
+.back-to-top {
+  position: fixed;
+  bottom: 3%;
+  right: 1%;
+  z-index: 9999;
+  font-size: var(--font-sm);
+  color: var(--white);
+  border: 1px solid var(--white);
+  background-color: rgba(5, 7, 56, 1);
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  animation: updown-element-animation 2s infinite;
+}
