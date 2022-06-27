@@ -7,14 +7,10 @@ import TermsCondition from "./view/TermsCondition";
 
 function App() {
   return (
-    <div>
-      {" "}
-      <Switch>
-        {" "}
-        <Route exact path="/" component={Main} />
-        <Route exact path="/terms-condition" component={TermsCondition} />
-      </Switch>
-    </div>
+    <Switch>
+      <Route path="/" exact component={Main} />
+      <Route path="/terms-condition" exact component={TermsCondition} />
+    </Switch>
   );
 }
 

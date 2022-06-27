@@ -1,5 +1,6 @@
 import React from "react";
-
+import { Link } from "react-router-dom";
+import { withRouter } from "react-router-dom";
 import footerlogo from "../assets/img/Webp/footor-logo.webp";
 import twitter from "../assets/img/Webp/footer-twitter-icon.webp";
 import instagram from "../assets/img/Webp/footer-instagram-icon.webp";
@@ -80,19 +81,13 @@ const Footer = () => {
                   </a>
                 </li>
               </ul>
-              <ul className="list_style_type_none z_index1">
-                <li className="fs_xs fw_bold color_primary ff_arial line_height24">
-                  Support
-                </li>
-                <li className="mt-2 hover_color">
-                  <a
-                    className="fs_3xs color_primary fw_regular ff_inter line_height16"
-                    href="#Term and Conditions"
-                  >
-                    Term and Conditions
-                  </a>
-                </li>
-              </ul>
+
+              <li className="fs_xs fw_bold color_primary ff_arial line_height24">
+                Support
+              </li>
+              <Link to="/terms-condition" className="mt-2 hover_color">
+                Term and Conditions
+              </Link>
             </div>
           </div>
         </div>
@@ -106,4 +101,4 @@ const Footer = () => {
   );
 };
 
-export default Footer;
+export default withRouter(Footer);
