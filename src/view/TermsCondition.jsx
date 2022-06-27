@@ -1,9 +1,12 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Footer from "../components/Footer";
 import Hero from "../components/Hero";
 import blueshadeimg from "../assets/img/Webp/termscondition-blueshade.webp";
 
 const TermsCondition = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <>
       <Hero />
