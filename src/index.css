@@ -314,6 +314,7 @@ li
 }
 .purchase_btn {
   display: inline;
+  cursor: pointer;
 }
 
 .choose_card:hover .purchase_btn span {

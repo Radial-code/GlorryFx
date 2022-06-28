@@ -67,7 +67,7 @@ const Hero = () => {
               <ul className="d-flex align-items-center text-start list_style_type_none">
                 <li>
                   <a
-                    className="fs_smgti ff_raleway color_primary fw_bold text_line"
+                    className="fs_sm ff_raleway color_primary fw_bold text_line"
                     href="#About"
                   >
                     About
