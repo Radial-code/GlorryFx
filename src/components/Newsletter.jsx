@@ -56,12 +56,12 @@ const Newsletter = () => {
                   <div className="col-6">
                     <div className="d-flex align-items-center">
                       <img
-                        className="px-2 d-none d-xl-block"
+                        className="px-2 w_25 height_11 d-none d-xl-block"
                         src={massageimg}
                         alt="sms-icon"
                       />
                       <input
-                        className="ps-3 ps-xl-0 fs_3xs fw_regular text-dark ff_arial"
+                        className="ps-3 ps-xl-0 input_box fs_3xs fw_regular text-dark ff_arial"
                         type="text"
                         placeholder="Enter Your E-mail"
                       />

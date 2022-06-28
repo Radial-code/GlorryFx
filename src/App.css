@@ -466,6 +466,12 @@ nav ul {
   border: 1px solid rgba(20, 136, 204, 0.15);
   backdrop-filter: blur(50px);
 }
+.w_25 {
+  width: 25px;
+}
+.height_11 {
+  height: 11px;
+}
 
 .blueshade {
   background: linear-gradient(
@@ -509,7 +515,7 @@ input {
   font-weight: var(--fw_bold);
   font-family: var(--ff_raleway);
   color: var(--color_primary);
-  padding: 14px 9px 14px 28px;
+  padding: 14px 18px 14px 18px;
   border: none !important;
   outline: none !important;
   background: linear-gradient(90deg, #1488cc 0%, #2b32b2 100%), #d9d9d9;
@@ -586,6 +592,9 @@ input {
   .Newsletter_blueshade {
     width: 100% !important;
     height: 200px;
+  }
+  .input_box {
+    background: transparent;
   }
 
   .translate-middle-y {
