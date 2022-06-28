@@ -140,7 +140,7 @@ const Benefits = () => {
 
             <div className="col-11 col-md-6 col-lg-4 py-3 py-lg-4">
               <div
-                className="benefits_card"
+                className="benefits_card p_relative"
                 data-aos="fade-up"
                 data-aos-easing="linear"
                 data-aos-duration="1000"

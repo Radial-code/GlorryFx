@@ -325,9 +325,10 @@ li
 }
 .position_right_shadow {
   position: absolute;
-  top: -220px;
+  top: -150px;
   right: 0;
   z-index: -1;
+  height: 500px;
 }
 .translate_shadow {
   position: absolute;
