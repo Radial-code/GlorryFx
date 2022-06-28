@@ -256,7 +256,8 @@ code {
 }
 
 .benefits_card:hover {
-  box-shadow: inset 10000px 50px 50px #2155ce;
+  background: linear-gradient(90deg, #1488cc 0%, #2b32b2 100%),
+    linear-gradient(0deg, #000000, #000000);
 }
 .line_height21 {
   line-height: 21px !important;

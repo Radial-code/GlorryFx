@@ -19,7 +19,7 @@ const Benefits = () => {
               </h2>
             </div>
           </div>
-          <div className="row justify-content-center justify-content-lg-start">
+          <div className="row justify-content-center justify-content-lg-start position-relative z-100">
             <div
               className="col-11 col-md-6 col-lg-4 py-3 py-lg-0"
               data-aos="fade-down"
@@ -94,7 +94,7 @@ const Benefits = () => {
 
             <div className="col-11 col-md-6 col-lg-4 py-3 py-lg-4">
               <div
-                className="benefits_card"
+                className="benefits_card  "
                 data-aos="fade-up"
                 data-aos-easing="linear"
                 data-aos-duration="1000"

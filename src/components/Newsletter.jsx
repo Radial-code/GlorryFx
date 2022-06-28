@@ -54,12 +54,18 @@ const Newsletter = () => {
                 </p>
                 <div className=" d-flex align-items-center justify-content-between mt-4 input_box">
                   <div className="col-6">
-                    <img className="px-2 " src={massageimg} alt="sms-icon" />
-                    <input
-                      className="fs_4xs fw_regular text-dark ff_arial"
-                      type="text"
-                      placeholder="Enter Your E-mail"
-                    />
+                    <div className="d-flex align-items-center">
+                      <img
+                        className="px-2 d-none d-xl-block"
+                        src={massageimg}
+                        alt="sms-icon"
+                      />
+                      <input
+                        className="ps-3 ps-xl-0 fs_3xs fw_regular text-dark ff_arial"
+                        type="text"
+                        placeholder="Enter Your E-mail"
+                      />
+                    </div>
                   </div>
                   <button className="subscribe_btn">
                     <img className="pe-2" src={teligramimg} alt="teligramimg" />{" "}
