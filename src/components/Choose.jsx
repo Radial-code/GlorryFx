@@ -88,7 +88,7 @@ const Choose = () => {
                 <h4 className="fs_md fw_regular ff_arial color_primary line_height21 line_sm_height12">
                   Monthly Analysis (Bundle Package)
                 </h4>
-                <p className="fs_xxs fw_regular ff_arial color_primary line_height24  line_md_height20">
+                <p className="fs_xxs fw_regular ff_arial color_primary line_height24  line_md_height20  ">
                   After joining, gain immediate access to an unrivaled
                   community. Receive alerts, ensuring you’ll never miss an
                   opportunity again!

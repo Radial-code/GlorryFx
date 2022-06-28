@@ -65,7 +65,7 @@ code {
   :root {
     --fs_4xs: 10px !important;
     --fs_3xs: 14px !important;
-    --fs_xxs: 18px !important;
+    --fs_xxs: 12px !important;
     --fs_xs: 16px !important;
     --fs_sm: 18px !important;
     --fs_md: 20px !important;
@@ -80,7 +80,7 @@ code {
   :root {
     --fs_4xs: 10px !important;
     --fs_3xs: 14px !important;
-    --fs_xxs: 18px !important;
+    --fs_xxs: 12px !important;
     --fs_xs: 16px !important;
     --fs_sm: 18px !important;
     --fs_md: 12px !important;
