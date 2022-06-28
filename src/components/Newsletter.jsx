@@ -56,8 +56,10 @@ const Newsletter = () => {
                   <div className="col-6">
                     <div className="d-flex align-items-center">
                       <img
-                        className="px-2 w_25 height_11 d-none d-xl-block"
+                        className="px-2  d-none d-xl-block"
                         src={massageimg}
+                        height="10"
+                        width="30"
                         alt="sms-icon"
                       />
                       <input

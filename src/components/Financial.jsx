@@ -45,21 +45,27 @@ const financial = () => {
                   Fully understanding the market is the key to seeing financial
                   change. We are seeing hundreds of our students:
                 </p>
-                <ul className="ps-3 finacial_pg line_height26 line_sm_height18">
+                <ul className="finacial_pg mb-3 list-unstyled line_height26 line_sm_height18">
+                  <li className="finacial_pg">
+                    <span className="me-2">✔️</span> Getting Out of an
+                    Uninspiring 9-5
+                  </li>
+                  <li className="finacial_pg">
+                    <span className="me-2">✔️</span> Investing in Their Own
+                    Businesses
+                  </li>
+                  <li className="finacial_pg">
+                    <span className="me-2">✔️</span>Enjoying a Reliable Second
+                    Stream of Income
+                  </li>
+                  <li className="finacial_pg">
+                    <span className="me-2">✔️</span> Having Financial Freedom to
+                    do the things THEY want to do!
+                  </li>
                   <li className="finacial_pg">
                     {" "}
-                    Getting Out of an Uninspiring 9-5
+                    <span className="me-2">✔️</span> And so much more…
                   </li>
-                  <li className="finacial_pg">
-                    Investing in Their Own Businesses
-                  </li>
-                  <li className="finacial_pg">
-                    Enjoying a Reliable Second Stream of Income
-                  </li>
-                  <li className="finacial_pg">
-                    Having Financial Freedom to do the things THEY want to do!
-                  </li>
-                  <li className="finacial_pg"> And so much more…</li>
                 </ul>
                 <p className="finacial_pg line_sm_height18">
                   Becoming financially free has meant the world to our students.
@@ -67,7 +73,7 @@ const financial = () => {
                   created. We get giddy every time we hear a success story.
                 </p>
                 <p className="finacial_pg line_sm_height18">
-                  Ready to be our next?{" "}
+                  Ready to be our next?
                 </p>
               </div>
             </div>

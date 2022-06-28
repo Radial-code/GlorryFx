@@ -50,7 +50,7 @@ const Header = () => {
                     impulse can lead to a world of disappointment. We designed
                     the Learn and Earn as a means to TRULY learn the ins and
                     outs of this market and start building real wealth. We’ve
-                    made this accessible EVERYONE within the click of a button.{" "}
+                    made this accessible EVERYONE within the click of a button.
                   </p>
                   <a
                     className="hero_btn fw_bold color_primary ff_raleway d-inline-block mt-md-4  "
