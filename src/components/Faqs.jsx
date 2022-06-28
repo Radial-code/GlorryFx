@@ -89,10 +89,13 @@ const Faqs = () => {
                   >
                     <div className="accordion-body">
                       <p className="para">
-                        No, the entire learning experience is online. We wanted
-                        to provide this quality material to everyone and didn’t
-                        want to limit it based on location and time
-                        restrictions.
+                        There is a lot you can do if you don’t understand a
+                        concept. We have a support team you can email and get
+                        any questions answered. You can also ask a question to
+                        our FOREX community as well as ask questions in our 1:1
+                        or during a webinar. Whatever the question is and
+                        whenever it pops up you will have many outlets available
+                        to get everything answered!
                       </p>
                     </div>
                   </div>
@@ -125,10 +128,9 @@ const Faqs = () => {
                   >
                     <div className="accordion-body">
                       <p className="para">
-                        No, the entire learning experience is online. We wanted
-                        to provide this quality material to everyone and didn’t
-                        want to limit it based on location and time
-                        restrictions.
+                        Please head to @glrrybot via Telegram & manage your
+                        subscription! We understand that circumstances change.
+                        This will be No problem!
                       </p>
                     </div>
                   </div>
@@ -161,10 +163,8 @@ const Faqs = () => {
                   >
                     <div className="accordion-body">
                       <p className="para">
-                        No, the entire learning experience is online. We wanted
-                        to provide this quality material to everyone and didn’t
-                        want to limit it based on location and time
-                        restrictions.
+                        Just send us an email to contact@glorryfx.com for all
+                        support related inquiries.
                       </p>
                     </div>
                   </div>
@@ -197,10 +197,12 @@ const Faqs = () => {
                   >
                     <div className="accordion-body">
                       <p className="para">
-                        No, the entire learning experience is online. We wanted
-                        to provide this quality material to everyone and didn’t
-                        want to limit it based on location and time
-                        restrictions.
+                        Our goal is to completely change the way intermediate
+                        traders view the markets! As you may know we’re unable
+                        to guarantee any specific results, however at the end,
+                        we aim and strive for customer development. Nonetheless,
+                        here at GlorryFX's learn & earn - you should see the
+                        results!
                       </p>
                     </div>
                   </div>
