@@ -45,27 +45,20 @@ const financial = () => {
                   Fully understanding the market is the key to seeing financial
                   change. We are seeing hundreds of our students:
                 </p>
-                <ul className="finacial_pg mb-3 list-unstyled line_height26 line_sm_height18">
+                <ul className="ps-3 mb-3 finacial_pg line_height26 line_sm_height18">
                   <li className="finacial_pg">
-                    <span className="me-2">✔️</span> Getting Out of an
-                    Uninspiring 9-5
+                    Getting Out of an Uninspiring 9-5
                   </li>
                   <li className="finacial_pg">
-                    <span className="me-2">✔️</span> Investing in Their Own
-                    Businesses
+                    Investing in Their Own Businesses
                   </li>
                   <li className="finacial_pg">
-                    <span className="me-2">✔️</span>Enjoying a Reliable Second
-                    Stream of Income
+                    Enjoying a Reliable Second Stream of Income
                   </li>
                   <li className="finacial_pg">
-                    <span className="me-2">✔️</span> Having Financial Freedom to
-                    do the things THEY want to do!
+                    Having Financial Freedom to do the things THEY want to do!
                   </li>
-                  <li className="finacial_pg">
-                    {" "}
-                    <span className="me-2">✔️</span> And so much more…
-                  </li>
+                  <li className="finacial_pg"> And so much more…</li>
                 </ul>
                 <p className="finacial_pg line_sm_height18">
                   Becoming financially free has meant the world to our students.

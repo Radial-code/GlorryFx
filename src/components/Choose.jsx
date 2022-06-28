@@ -39,7 +39,7 @@ const Choose = () => {
                 <h4 className="fs_md fw_regular ff_arial color_primary line line_height21 line_sm_height12 ">
                   Monthly Analysis
                 </h4>
-                <p className="fs_xxs fw_regular ff_arial color_primary line_height24">
+                <p className="fs_xxs fw_regular ff_arial color_primary line_height24 line_md_height20">
                   After joining, gain immediate access to an unrivaled
                   community. Receive alerts, ensuring you’ll never miss an
                   opportunity again!
@@ -53,7 +53,7 @@ const Choose = () => {
                 <div className="purchase_btn">
                   <span className="text-decoration-none ">Purchase Plan</span>
                 </div>
-                <ul className="fs_xs fs_sm_10 fw_regular ff_arial color_primary ps-0 mt-4 list_style_type_none line_height24 opacity_07">
+                <ul className="fs_xs fs_sm_10 fw_regular ff_arial color_primary ps-0 mt-4 list_style_type_none line_height24 line_md_height20 opacity_07">
                   <li>
                     <img src={right} alt="green-tick" className="pe-2" />
                     Weekly Analysis Updates
@@ -88,7 +88,7 @@ const Choose = () => {
                 <h4 className="fs_md fw_regular ff_arial color_primary line_height21 line_sm_height12">
                   Monthly Analysis (Bundle Package)
                 </h4>
-                <p className="fs_xxs fw_regular ff_arial color_primary line_height24  ">
+                <p className="fs_xxs fw_regular ff_arial color_primary line_height24  line_md_height20">
                   After joining, gain immediate access to an unrivaled
                   community. Receive alerts, ensuring you’ll never miss an
                   opportunity again!
@@ -102,8 +102,8 @@ const Choose = () => {
                 <div className="purchase_btn">
                   <span className="text-decoration-none ">Purchase Plan</span>
                 </div>
-                <ul className="fs_xs fs_sm_10 fw_regular ff_arial color_primary ps-0 mt-4 list_style_type_none line_height24 line_md_height12 opacity_07">
-                  <li>
+                <ul className="fs_xs fs_sm_10 fw_regular ff_arial color_primary ps-0 mt-4 list_style_type_none line_height24 line_md_height20   opacity_07">
+                  <li className="">
                     <img src={right} alt="green-tick" className="pe-2" />
                     Weekly Analysis Updates
                   </li>
@@ -148,7 +148,7 @@ const Choose = () => {
                 <div className="purchase_btn">
                   <span className="text-decoration-none ">Purchase Plan</span>
                 </div>
-                <ul className="fs_xs fs_sm_10 fw_regular ff_arial color_primary ps-0 mt-4 list_style_type_none line_height24 line_md_height16 opacity_07">
+                <ul className="fs_xs fs_sm_10 fw_regular ff_arial color_primary ps-0 mt-4 list_style_type_none line_height24 line_md_height20 opacity_07">
                   <li>
                     <img src={right} alt="green-tick" className="pe-2" />
                     Exclusive access via Cell with GlorryFX

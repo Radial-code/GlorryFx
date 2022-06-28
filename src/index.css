@@ -240,7 +240,7 @@ code {
   background: #131313;
 }
 .opacity_07 {
-  opacity: 0.7;
+  opacity: 0.7 !important;
 }
 
 .benefits_card {
@@ -455,6 +455,9 @@ li
   }
   .line_sm_height30 {
     line-height: 30px;
+  }
+  .line_md_height20 {
+    line-height: 20px !important;
   }
 }
 
