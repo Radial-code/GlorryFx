@@ -472,6 +472,9 @@ nav ul {
 .height_11 {
   height: 11px;
 }
+.input_bg {
+  background: transparent;
+}
 
 .blueshade {
   background: linear-gradient(
@@ -592,9 +595,6 @@ input {
   .Newsletter_blueshade {
     width: 100% !important;
     height: 200px;
-  }
-  .input_box {
-    background: transparent;
   }
 
   .translate-middle-y {

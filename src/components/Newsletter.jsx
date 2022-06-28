@@ -61,7 +61,7 @@ const Newsletter = () => {
                         alt="sms-icon"
                       />
                       <input
-                        className="ps-3 ps-xl-0 input_box fs_3xs fw_regular text-dark ff_arial"
+                        className="input_bg ps-2 ps-xl-0  fs_3xs fw_regular text-dark ff_arial"
                         type="text"
                         placeholder="Enter Your E-mail"
                       />
