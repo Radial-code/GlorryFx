@@ -48,7 +48,7 @@ const Newsletter = () => {
                 <h3 className="fs_3xl  fw_semibold ff_raleway color_primary  ">
                   Subscribe to Our Newsletter
                 </h3>
-                <p className="para">Stay up to date</p>
+                <p className="para">Never miss out on new product launches!</p>
                 <div className=" d-flex align-items-center justify-content-between mt-4 input_box">
                   <div className="col-6">
                     <div className="d-flex align-items-center">
