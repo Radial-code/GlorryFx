@@ -30,17 +30,27 @@ const Footer = () => {
                 Follow Us:
               </p>
               <div className="mb-4">
-                <img className="icon_hover" src={twitter} alt="twitter-icon" />
-                <img
-                  className="mx-3 icon_hover"
-                  src={instagram}
-                  alt="instagram-icon"
-                />
-                <img
-                  className="icon_hover"
-                  src={tilegram}
-                  alt="tilegram-icon"
-                />
+                <a href=" https://twitter.com/glorryfx/">
+                  <img
+                    className="icon_hover"
+                    src={twitter}
+                    alt="twitter-icon"
+                  />
+                </a>
+                <a href="https://www.instagram.com/glorryfx/?hl=en">
+                  <img
+                    className="mx-3 icon_hover"
+                    src={instagram}
+                    alt="instagram-icon"
+                  />
+                </a>
+                <a href=" https://t.me/GlorryFX ">
+                  <img
+                    className="icon_hover"
+                    src={tilegram}
+                    alt="tilegram-icon"
+                  />
+                </a>
               </div>
             </div>
             <div className="d-flex justify-content-between  col-6 col-sm-5 col-md-4 col-lg-3 p_relative">

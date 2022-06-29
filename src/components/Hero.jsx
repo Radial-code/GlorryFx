@@ -109,13 +109,13 @@ const Hero = () => {
                 <a href="#">
                   <img className="icon_hover" src={cart} alt="cart" />
                 </a>
-                <a className="mx-4" href="#">
+                <a className="mx-4" href=" https://twitter.com/glorryfx/">
                   <img className="icon_hover" src={twitter} alt="twitter" />
                 </a>
-                <a href="#">
+                <a href=" https://www.instagram.com/glorryfx/?hl=en">
                   <img className="icon_hover" src={insta} alt="insta" />
                 </a>
-                <a className="ms-4" href="#">
+                <a className="ms-4" href="https://t.me/GlorryFX">
                   <img className="icon_hover" src={teligram} alt="teligram" />
                 </a>
               </div>
@@ -137,13 +137,13 @@ const Hero = () => {
               <a href="#">
                 <img className="icon_hover" src={cart} alt="cart" />
               </a>
-              <a className="mx-3 mx-sm-4 " href="#">
+              <a className="mx-3 mx-sm-4 " href="https://twitter.com/login">
                 <img className="icon_hover" src={twitter} alt="twitter" />
               </a>
-              <a href="#">
+              <a href="https://www.instagram.com/accounts/login/">
                 <img className="icon_hover" src={insta} alt="insta" />
               </a>
-              <a className="ms-3 ms-sm-4" href="#">
+              <a className="ms-3 ms-sm-4" href="https://telegram.org/">
                 <img className="icon_hover" src={teligram} alt="teligram" />
               </a>
               <button
