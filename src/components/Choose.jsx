@@ -51,7 +51,7 @@ const Choose = () => {
                   </span>
                 </h3>
                 <div className="purchase_btn">
-                  <span className="text-decoration-none ">Purchase Plan</span>
+                  <a href="https://buy.stripe.com/test_8wMaGZ0O7dNEa2IdQQ" className="text-decoration-none text-white" ><span className="text-decoration-none ">Purchase Plan</span></a>
                 </div>
                 <ul className="fs_xs fs_sm_10 fw_regular ff_arial color_primary ps-0 mt-4 list_style_type_none line_height24 line_md_height20 opacity_07">
                   <li>
@@ -100,7 +100,7 @@ const Choose = () => {
                   </span>
                 </h3>
                 <div className="purchase_btn">
-                  <span className="text-decoration-none ">Purchase Plan</span>
+                  <a href="https://buy.stripe.com/test_dR6aGZ7cvdNEcaQ4gh" className="text-white"><span className="text-decoration-none ">Purchase Plan</span></a>
                 </div>
                 <ul className="fs_xs fs_sm_10 fw_regular ff_arial color_primary ps-0 mt-4 list_style_type_none line_height24 line_md_height20   opacity_07">
                   <li className="">
@@ -146,7 +146,7 @@ const Choose = () => {
                   <span className="fs_md fw_regular ff_arial color_primary ps-2" />
                 </h3>
                 <div className="purchase_btn">
-                  <span className="text-decoration-none ">Purchase Plan</span>
+                  <a href="https://buy.stripe.com/test_28ocP77cv8tk8YE7su" className="text-white"><span className="text-decoration-none ">Purchase Plan</span></a>
                 </div>
                 <ul className="fs_xs fs_sm_10 fw_regular ff_arial color_primary ps-0 mt-4 list_style_type_none line_height24 line_md_height20 opacity_07">
                   <li>
