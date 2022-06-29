@@ -32,16 +32,14 @@ const Testimonials = () => {
                         <img src={mainimg} alt="view-test-img" />
                       </div>
                       <p className="doller_pg">
-                        Dolor mattis quisque curabitur lacus, pharetra sem leo.
-                        Elementum fames vel erat volutpat varius placerat
-                        libero. Consectetur quis quisque nulla lectus quis.
+                        Thank you for everything. Its coming together. Please
+                        keep providing these awesome CBD's/Webinars & Forecasts.
+                        It's helping me big time! I appreciate what you are
+                        bringing.
                       </p>
                       <h3 className="fs_xl fs_sm_20 fw_regular ff_raleway color_primary">
-                        Esther Howard
+                        James S.
                       </h3>
-                      <h6 className="fs_xxs fs_sm_10 fw_regular ff_arial color_linear">
-                        UX - Designer
-                      </h6>
 
                       <div className="position_comma2">
                         <img src={comma2} alt="comma" />
@@ -61,16 +59,12 @@ const Testimonials = () => {
                         <img src={mainimg} alt="view-test-img" />
                       </div>
                       <p className="doller_pg">
-                        Dolor mattis quisque curabitur lacus, pharetra sem leo.
-                        Elementum fames vel erat volutpat varius placerat
-                        libero. Consectetur quis quisque nulla lectus quis.
+                        Congrats on your big win on NAS! I appreciate everything
+                        you do for the group for real!
                       </p>
                       <h3 className="fs_xl fs_sm_20 fw_regular ff_raleway color_primary">
-                        Esther Howard
+                        Dujuan A.
                       </h3>
-                      <h6 className="fs_xxs fs_sm_10 fw_regular ff_arial color_linear">
-                        UI - Designer
-                      </h6>
 
                       <div className="position_comma2">
                         <img src={comma2} alt="comma" />
@@ -90,16 +84,14 @@ const Testimonials = () => {
                         <img src={mainimg} alt="view-test-img" />
                       </div>
                       <p className="doller_pg">
-                        Dolor mattis quisque curabitur lacus, pharetra sem leo.
-                        Elementum fames vel erat volutpat varius placerat
-                        libero. Consectetur quis quisque nulla lectus quis.
+                        Glorri you're a legend. Nas100 was fire still, I can't
+                        understand how you mark your zones and your criteria.
+                        I've watched your videos many times still trying, but
+                        I'm sure I'll get it !
                       </p>
                       <h3 className="fs_xl fs_sm_20 fw_regular ff_raleway color_primary line_height30">
-                        Esther Howard
+                        Roman B.
                       </h3>
-                      <h6 className="fs_xxs fs_sm_10 fw_regular ff_arial color_linear line_height_15  ">
-                        UI - Designer
-                      </h6>
 
                       <div className="position_comma2">
                         <img src={comma2} alt="comma" />
