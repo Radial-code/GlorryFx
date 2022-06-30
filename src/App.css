@@ -719,3 +719,17 @@ input {
   transition: all 0.3s ease-in-out;
   animation: updown-element-animation 2s infinite;
 }
+
+.cirle-text-carasoul {
+  border: 3px solid var(--color_linear);
+  border-radius: 50%;
+  height: 65px;
+  width: 65px;
+  font-size: var(--fs_xl);
+  font-weight: 600;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}

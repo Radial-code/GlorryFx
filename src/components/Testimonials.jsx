@@ -29,7 +29,7 @@ const Testimonials = () => {
                         <img src={comma1} alt="comma" />
                       </div>
                       <div className="position_main_img">
-                        <img src={mainimg} alt="view-test-img" />
+                        <p className="cirle-text-carasoul">J S</p>
                       </div>
                       <p className="doller_pg">
                         Thank you for everything. Its coming together. Please
@@ -56,7 +56,7 @@ const Testimonials = () => {
                         <img src={comma1} alt="comma" />
                       </div>
                       <div className="position_main_img">
-                        <img src={mainimg} alt="view-test-img" />
+                        <p className="cirle-text-carasoul">D A</p>
                       </div>
                       <p className="doller_pg">
                         Congrats on your big win on NAS! I appreciate everything
@@ -81,7 +81,7 @@ const Testimonials = () => {
                         <img src={comma1} alt="comma" />
                       </div>
                       <div className="position_main_img">
-                        <img src={mainimg} alt="view-test-img" />
+                        <p className="cirle-text-carasoul">R B</p>
                       </div>
                       <p className="doller_pg">
                         Glorri you're a legend. Nas100 was fire still, I can't
@@ -92,7 +92,6 @@ const Testimonials = () => {
                       <h3 className="fs_xl fs_sm_20 fw_regular ff_raleway color_primary line_height30">
                         Roman B.
                       </h3>
-
                       <div className="position_comma2">
                         <img src={comma2} alt="comma" />
                       </div>
