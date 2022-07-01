@@ -815,3 +815,6 @@ li
   font-family: var(--ff_raleway);
   line-height: 32px;
 }
+p {
+  margin-bottom: 2px;
+}
