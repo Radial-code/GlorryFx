@@ -9,6 +9,7 @@ import TermsCondition from "./view/TermsCondition";
 import BackToTop from "./components/BackToTop";
 import PrivacyPolicy from "./view/PrivacyPolicy";
 import RefundPolicy from "./view/RefundPolicy";
+import Telegram from "./view/Telegram";
 
 function App() {
   useEffect(() => {
@@ -23,6 +24,7 @@ function App() {
         <Route exact path="/terms-condition" component={TermsCondition} />
         <Route exact path="/privacy-policy" component={PrivacyPolicy} />
         <Route exact path="/refund-policy" component={RefundPolicy} />
+        <Route exact path="/payment" component={Telegram} />
       </Switch>
       <BackToTop />
     </>

@@ -13,8 +13,7 @@ import Footer from "../components/Footer";
 const Main = () => {
   return (
     <div>
-      <Glorryfx />
-      {/* <Header />
+      <Header />
       <Financial />
       <Benefits />
       <Choose />
@@ -22,7 +21,7 @@ const Main = () => {
       <Testimonials />
       <Faqs />
       <Newsletter />
-      <Footer /> */}
+      <Footer />
     </div>
   );
 };
