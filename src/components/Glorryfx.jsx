@@ -13,9 +13,9 @@ const Glorryfx = () => {
         </div>
         <div className="container">
           <div className="row justify-content-center my-xxl-5 py-5">
-            <div className="col-10">
+            <div className="col-sm-10">
               <div className="Telegram_Access_bg">
-                <div className="text-center px-5 mx-4 pb-5">
+                <div className="text-center px-sm-5 mx-sm-4 mx-3 pb-5">
                   <h3 className="sub_heading pt-5 pb-4 mb-1">
                     GlorryFX (Telegram Access)
                   </h3>

@@ -804,6 +804,8 @@ li
   background: #131313;
   box-shadow: inset 0px 0px 30px rgba(20, 136, 204, 0.86);
   border-radius: 8px;
+  z-index: 19;
+  position: relative;
 }
 .line_height30 {
   line-height: 30px;
