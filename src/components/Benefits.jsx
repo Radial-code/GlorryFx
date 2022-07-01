@@ -153,10 +153,9 @@ const Benefits = () => {
                 </h3>
                 <p className="para line_sm_height18">
                   Have a question? Send us an email! We are here 7 days a week
-                  [change if needed] ready to jump on any question you may have.
-                  Trying to understand a particularly difficult subject matter?
-                  No problem! Having technical difficulties? We’ll get it
-                  sorted!
+                  ready to jump on any question you may have. Trying to
+                  understand a particularly difficult subject matter? No
+                  problem! Having technical difficulties? We’ll get it sorted!
                 </p>
               </div>
             </div>

@@ -125,10 +125,10 @@ body {
 }
 @media (max-width: 575.98px) {
   :root {
-    --fs_4xs: 10px !important;
-    --fs_3xs: 10px !important;
-    --fs_xxs: 12px !important;
-    --fs_xs: 12px !important;
+    --fs_4xs: 12px !important;
+    --fs_3xs: 12px !important;
+    --fs_xxs: 14px !important;
+    --fs_xs: 14px !important;
     --fs_sm: 18px !important;
     --fs_md: 12px !important;
     --fs_lg: 22px !important;
@@ -732,4 +732,10 @@ input {
   justify-content: center;
   align-items: center;
   background-color: white;
+}
+
+@media (max-width: 992px) {
+  .line_sm_rg {
+    line-height: 50px !important;
+  }
 }

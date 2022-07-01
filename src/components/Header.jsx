@@ -54,7 +54,7 @@ const Header = () => {
                   </p>
                   <a
                     className="hero_btn fw_bold color_primary ff_raleway d-inline-block mt-md-4  "
-                    href="#button"
+                    href="#Pricing"
                   >
                     Join Now
                   </a>

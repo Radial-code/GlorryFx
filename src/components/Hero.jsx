@@ -106,13 +106,10 @@ const Hero = () => {
             </div>
             <div className="col-4 ">
               <div className="text-end">
-                <a href="#">
-                  <img className="icon_hover" src={cart} alt="cart" />
-                </a>
-                <a className="mx-4" href=" https://twitter.com/glorryfx/">
+                <a className="mx-4" href="https://twitter.com/glorryfx/">
                   <img className="icon_hover" src={twitter} alt="twitter" />
                 </a>
-                <a href=" https://www.instagram.com/glorryfx/?hl=en">
+                <a href="https://www.instagram.com/glorryfx/?hl=en">
                   <img className="icon_hover" src={insta} alt="insta" />
                 </a>
                 <a className="ms-4" href="https://t.me/GlorryFX">
@@ -128,28 +125,30 @@ const Hero = () => {
         className="navbar navbar-expand-lg p_relative nav_bg_color {
               py-3 d-block d-lg-none"
       >
-        <div className="container-fluid px-sm-4 px-2">
-          <Link className="" to="/" href="#">
-            <img className="w-100" src={logo} alt="navlogo" />
-          </Link>
-          <div className="d-flex align-items-center justify-content-between">
-            <div className="text-end">
-              <a href="#">
-                <img className="icon_hover" src={cart} alt="cart" />
-              </a>
-              <a className="mx-3 mx-sm-4 " href="https://twitter.com/login">
-                <img className="icon_hover" src={twitter} alt="twitter" />
-              </a>
-              <a href="https://www.instagram.com/accounts/login/">
-                <img className="icon_hover" src={insta} alt="insta" />
-              </a>
-              <a className="ms-3 ms-sm-4" href="https://telegram.org/">
-                <img className="icon_hover" src={teligram} alt="teligram" />
-              </a>
-              <button
-                onClick={() => setNavOverlay(true)}
-                className="btn navbar-toggler-icon mx-3"
-              ></button>
+        <div className="px-sm-4 px-2">
+          <div className="d-flex justify-content-between">
+            <Link className="" to="/" href="#">
+              <img className="w-100" src={logo} alt="navlogo" />
+            </Link>
+            <div className="d-flex align-items-center justify-content-between">
+              <div className="text-end d-flex">
+                <a
+                  className="mx-3 mx-sm-4 "
+                  href="https://twitter.com/glorryfx/"
+                >
+                  <img className="icon_hover" src={twitter} alt="twitter" />
+                </a>
+                <a href="https://www.instagram.com/glorryfx/?hl=en">
+                  <img className="icon_hover" src={insta} alt="insta" />
+                </a>
+                <a className="ms-3 ms-sm-4" href="https://t.me/GlorryFX">
+                  <img className="icon_hover" src={teligram} alt="teligram" />
+                </a>
+                <button
+                  onClick={() => setNavOverlay(true)}
+                  className="btn navbar-toggler-icon mx-3"
+                ></button>
+              </div>
             </div>
           </div>
         </div>

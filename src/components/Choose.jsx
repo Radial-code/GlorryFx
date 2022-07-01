@@ -51,7 +51,12 @@ const Choose = () => {
                   </span>
                 </h3>
                 <div className="purchase_btn">
-                  <a href="https://buy.stripe.com/test_8wMaGZ0O7dNEa2IdQQ" className="text-decoration-none text-white" ><span className="text-decoration-none ">Purchase Plan</span></a>
+                  <a
+                    href="https://buy.stripe.com/test_8wMaGZ0O7dNEa2IdQQ"
+                    className="text-decoration-none text-white"
+                  >
+                    <span className="text-decoration-none ">Purchase Plan</span>
+                  </a>
                 </div>
                 <ul className="fs_xs fs_sm_10 fw_regular ff_arial color_primary ps-0 mt-4 list_style_type_none line_height24 line_md_height20 opacity_07">
                   <li>
@@ -100,7 +105,12 @@ const Choose = () => {
                   </span>
                 </h3>
                 <div className="purchase_btn">
-                  <a href="https://buy.stripe.com/test_dR6aGZ7cvdNEcaQ4gh" className="text-white"><span className="text-decoration-none ">Purchase Plan</span></a>
+                  <a
+                    href="https://buy.stripe.com/test_dR6aGZ7cvdNEcaQ4gh"
+                    className="text-white"
+                  >
+                    <span className="text-decoration-none ">Purchase Plan</span>
+                  </a>
                 </div>
                 <ul className="fs_xs fs_sm_10 fw_regular ff_arial color_primary ps-0 mt-4 list_style_type_none line_height24 line_md_height20   opacity_07">
                   <li className="">
@@ -137,16 +147,26 @@ const Choose = () => {
                 <h4 className="fs_md fw_regular ff_arial color_primary line_height21 line_sm_height12 line_md_height12">
                   Lifetime Mentorship
                 </h4>
-                {/* <p className="fs_xxs fw_regular ff_arial color_primary">
-									After joining, gain immediate access to an unrivaled community. Receive alerts,
-									ensuring you’ll never miss an opportunity again!
-								</p> */}
+                <p className="fs_xxs fw_regular ff_arial color_primary">
+                  Gain Immediate access to GlorryFX, as we go over multiple
+                  criteria on and off the charts.{" "}
+                  <span className="d-block">
+                    Recieve weekly mentoring, ensuring you'll always have
+                    exquisite knoweldge to prepare you as a trader. Contact us
+                    for more details.
+                  </span>
+                </p>
                 <h3 className="price_dollor mb-4">
                   $3,000
                   <span className="fs_md fw_regular ff_arial color_primary ps-2" />
                 </h3>
                 <div className="purchase_btn">
-                  <a href="https://buy.stripe.com/test_28ocP77cv8tk8YE7su" className="text-white"><span className="text-decoration-none ">Purchase Plan</span></a>
+                  <a
+                    href="https://buy.stripe.com/test_28ocP77cv8tk8YE7su"
+                    className="text-white"
+                  >
+                    <span className="text-decoration-none ">Purchase Plan</span>
+                  </a>
                 </div>
                 <ul className="fs_xs fs_sm_10 fw_regular ff_arial color_primary ps-0 mt-4 list_style_type_none line_height24 line_md_height20 opacity_07">
                   <li>

@@ -15,7 +15,7 @@ const Velittempor = () => {
         <div className="container z_index5 position-relative">
           <div className="row">
             <div className="col-md-6 col-lg-5 col-6 ">
-              <h1 className="fs_xxl ff_raleway fw_medium line_height61 mb-0  color_primary">
+              <h1 className="fs_xxl ff_raleway fw_medium line_height61 line_sm_rg mb-0  color_primary">
                 Immediate Updates
               </h1>
               <p className="para">
@@ -32,14 +32,13 @@ const Velittempor = () => {
         <div className="container">
           <div className="row py-3">
             <div className="col-12">
-              <h1 className="fs_xxl ff_raleway fw_medium line_height61  color_primary">
+              <h1 className="fs_xxl ff_raleway fw_medium line_height61 line_sm_rg  color_primary">
                 Immediate Updates
               </h1>
               <p className="para ln_xs_20">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Facilis adipisci molestiae eaque voluptas porro dignissimos!
-                Veniam, architecto. Expedita tempora quis fugit architecto
-                recusandae. Repudiandae fugit a magni eaque in ratione.
+                No matter where you're are, we'll always update you in a timely
+                manner. Never miss an update by turning on your notifications.
+                Completely elevate your trading career NOW!
               </p>
             </div>
           </div>

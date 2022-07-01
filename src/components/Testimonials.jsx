@@ -19,9 +19,9 @@ const Testimonials = () => {
                 data-bs-ride="carousel"
               >
                 <div className="carousel-inner">
-                  <div className="carousel-item mt-sm-4 mt-5   pe-lg-5 active">
+                  <div className="carousel-item  mt-sm-4 mt-5   pe-lg-5 active">
                     <div
-                      className="testimonial_card  my-3 my-lg-0"
+                      className="testimonial_card carsoul-h-fix my-3 my-lg-0"
                       data-aos="zoom-in-down"
                       data-aos-duration="1500"
                     >
@@ -46,9 +46,9 @@ const Testimonials = () => {
                       </div>
                     </div>
                   </div>
-                  <div className="carousel-item mt-sm-4 mt-5 pe-lg-5">
+                  <div className="carousel-item mt-sm-4  mt-5 pe-lg-5">
                     <div
-                      className="testimonial_card position-relative my-3 my-lg-0"
+                      className="testimonial_card carsoul-h-fix position-relative my-3 my-lg-0"
                       data-aos="zoom-in-down"
                       data-aos-duration="1500"
                     >
@@ -71,9 +71,9 @@ const Testimonials = () => {
                       </div>
                     </div>
                   </div>
-                  <div className="carousel-item mt-sm-4 mt-5 pe-lg-5">
+                  <div className="carousel-item mt-sm-4  mt-5 pe-lg-5">
                     <div
-                      className="testimonial_card position-relative my-3 my-lg-0"
+                      className="testimonial_card carsoul-h-fix position-relative my-3 my-lg-0"
                       data-aos="zoom-in-down"
                       data-aos-duration="1000"
                     >
