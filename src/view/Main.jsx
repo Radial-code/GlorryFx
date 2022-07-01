@@ -1,5 +1,6 @@
 import React from "react";
 import Header from "../components/Header";
+import Glorryfx from "../components/Glorryfx";
 import Financial from "../components/Financial";
 import Benefits from "../components/Benefits";
 import Choose from "../components/Choose";
@@ -12,8 +13,8 @@ import Footer from "../components/Footer";
 const Main = () => {
   return (
     <div>
-      {" "}
-      <Header />
+      <Glorryfx />
+      {/* <Header />
       <Financial />
       <Benefits />
       <Choose />
@@ -21,7 +22,7 @@ const Main = () => {
       <Testimonials />
       <Faqs />
       <Newsletter />
-      <Footer />
+      <Footer /> */}
     </div>
   );
 };

@@ -799,3 +799,19 @@ li
 .carousel-inner {
   overflow: unset !important;
 }
+/* ===========Telegram Acces =========== */
+.Telegram_Access_bg {
+  background: #131313;
+  box-shadow: inset 0px 0px 30px rgba(20, 136, 204, 0.86);
+  border-radius: 8px;
+}
+.line_height30 {
+  line-height: 30px;
+}
+.Enjoy_ACCESS_heading {
+  font-size: 30px;
+  font-weight: var(--fw_semibold);
+  color: var(--color_primary);
+  font-family: var(--ff_raleway);
+  line-height: 32px;
+}
