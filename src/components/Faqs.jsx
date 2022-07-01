@@ -61,7 +61,42 @@ const Faqs = () => {
                     </div>
                   </div>
                 </div>
-
+                <div
+                  className="accordion-item my-3"
+                  data-aos="fade-left"
+                  data-aos-duration="1000"
+                >
+                  <h2 className="accordion-header" id="headingTwo">
+                    <button
+                      className="accordion-button collapsed"
+                      type="button"
+                      data-bs-toggle="collapse"
+                      data-bs-target="#collapseTwoss"
+                      aria-expanded="false"
+                      aria-controls="collapseTwo"
+                    >
+                      <h6 className="fs_sm fw_bold ff_arial color_primary line_height27">
+                        What content is provided?
+                      </h6>
+                    </button>
+                  </h2>
+                  <div
+                    id="collapseTwoss"
+                    className="accordion-collapse collapse"
+                    aria-labelledby="headingTwo"
+                    data-bs-parent="#accordionExample"
+                  >
+                    <div className="accordion-body">
+                      <p className="para">
+                        We strive to provide the average trader ultimate
+                        guidance within the markets. This contains but is not
+                        permitted to, weekly analysis, multiple trading videos,
+                        group webinars, and live trade management strategies!
+                        You will learn from the best!
+                      </p>
+                    </div>
+                  </div>
+                </div>
                 <div
                   className="accordion-item my-3"
                   data-aos="fade-left"
@@ -92,10 +127,10 @@ const Faqs = () => {
                         There is a lot you can do if you don’t understand a
                         concept. We have a support team you can email and get
                         any questions answered. You can also ask a question to
-                        our FOREX community as well as ask questions in our 1:1
-                        or during a webinar. Whatever the question is and
-                        whenever it pops up you will have many outlets available
-                        to get everything answered!
+                        our FOREX community as well as ask questions during a
+                        webinar. Whatever the question is and whenever it pops
+                        up you will have many outlets available to get
+                        everything answered!
                       </p>
                     </div>
                   </div>
@@ -128,10 +163,15 @@ const Faqs = () => {
                   >
                     <div className="accordion-body">
                       <p className="para">
-                        Please head to @glrrybot via Telegram & manage your
-                        subscription! We understand that circumstances change.
-                        This will be No problem!
+                        Please Click <a href="https://t.me/glrrybot">Here</a> &
+                        Manage & manage your subscription! We understand that
+                        circumstances change. This will be No problem!
                       </p>
+                      <ul className="ms-3">
+                        <li>“/start”</li>
+                        <li>Status</li>
+                        <li>Manage your subscription</li>
+                      </ul>
                     </div>
                   </div>
                 </div>
@@ -151,7 +191,7 @@ const Faqs = () => {
                       aria-controls="collapsefour"
                     >
                       <h6 className="fs_sm fw_bold ff_arial color_primary line_height27">
-                        How can I get a hold of you?
+                        How can I contact support ?
                       </h6>
                     </button>
                   </h2>
@@ -185,7 +225,7 @@ const Faqs = () => {
                       aria-controls="collapsefive"
                     >
                       <h6 className="fs_sm fw_bold ff_arial color_primary line_height27">
-                        What results should I expect?
+                        What should I expect after joining?
                       </h6>
                     </button>
                   </h2>
@@ -197,12 +237,12 @@ const Faqs = () => {
                   >
                     <div className="accordion-body">
                       <p className="para">
-                        Our goal is to completely change the way intermediate
+                        : Our goal is to completely change the way intermediate
                         traders view the markets! As you may know we’re unable
                         to guarantee any specific results, however at the end,
                         we aim and strive for customer development. Nonetheless,
                         here at GlorryFX's learn & earn - you should see the
-                        results!
+                        results !
                       </p>
                     </div>
                   </div>

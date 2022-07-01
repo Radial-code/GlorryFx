@@ -7,6 +7,8 @@ import "aos/dist/aos.css";
 import Main from "./view/Main";
 import TermsCondition from "./view/TermsCondition";
 import BackToTop from "./components/BackToTop";
+import PrivacyPolicy from "./view/PrivacyPolicy";
+import RefundPolicy from "./view/RefundPolicy";
 
 function App() {
   useEffect(() => {
@@ -19,6 +21,8 @@ function App() {
       <Switch>
         <Route exact path="/" component={Main} />
         <Route exact path="/terms-condition" component={TermsCondition} />
+        <Route exact path="/privacy-policy" component={PrivacyPolicy} />
+        <Route exact path="/refund-policy" component={RefundPolicy} />
       </Switch>
       <BackToTop />
     </>

@@ -97,8 +97,18 @@ const Footer = () => {
                   Support
                 </li>
                 <Link to="/terms-condition" className="mt-3 hover_color">
-                  <p className="fs_3xs color_primary fw_regular ff_inter line_height16 pt-3 opacity_07">
+                  <p className="fs_3xs color_primary fw_regular  ff_inter line_height16 pt-3 opacity_07">
                     Term and Conditions
+                  </p>
+                </Link>{" "}
+                <Link to="/privacy-policy" className="hover_color">
+                  <p className="fs_3xs color_primary fw_regular ff_inter line_height16  opacity_07">
+                    Privacy Policy
+                  </p>
+                </Link>
+                <Link to="/refund-policy" className="hover_color">
+                  <p className="fs_3xs color_primary fw_regular ff_inter line_height16  opacity_07">
+                    Refund Policy
                   </p>
                 </Link>
               </ul>
