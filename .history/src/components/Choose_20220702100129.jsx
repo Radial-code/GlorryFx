@@ -162,7 +162,7 @@ const Choose = () => {
                 </h3>
                 <div className="purchase_btn">
                   <a
-                    href="https://buy.stripe.com/00g4hf31O7JWg5qbIJ"
+                    href="https://buy.stripe.com/test_28ocP77cv8tk8YE7su"
                     className="text-white"
                   >
                     <span className="text-decoration-none ">Purchase Plan</span>

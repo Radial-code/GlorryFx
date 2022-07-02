@@ -24,7 +24,7 @@ function App() {
         <Route exact path="/terms-condition" component={TermsCondition} />
         <Route exact path="/privacy-policy" component={PrivacyPolicy} />
         <Route exact path="/refund-policy" component={RefundPolicy} />
-        <Route exact path="/payment-success" component={Telegram} />
+        <Route exact path="/payment" component={Telegram} />
       </Switch>
       <BackToTop />
     </>

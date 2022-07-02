@@ -52,7 +52,7 @@ const Choose = () => {
                 </h3>
                 <div className="purchase_btn">
                   <a
-                    href="https://buy.stripe.com/7sI1531XKc0c7yU4gi"
+                    href="https://buy.stripe.com/test_8wMaGZ0O7dNEa2IdQQ"
                     className="text-decoration-none text-white"
                   >
                     <span className="text-decoration-none ">Purchase Plan</span>
@@ -162,7 +162,7 @@ const Choose = () => {
                 </h3>
                 <div className="purchase_btn">
                   <a
-                    href="https://buy.stripe.com/00g4hf31O7JWg5qbIJ"
+                    href="https://buy.stripe.com/test_28ocP77cv8tk8YE7su"
                     className="text-white"
                   >
                     <span className="text-decoration-none ">Purchase Plan</span>

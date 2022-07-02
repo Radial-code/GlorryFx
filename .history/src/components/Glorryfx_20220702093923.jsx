@@ -21,7 +21,7 @@ const Glorryfx = () => {
                   </h3>
                   <p className="fs_md fw_regular ff_arial color_primary line_height30">
                     After successful payment, the user is able to gain immediate
-                    access via Telegram by clicking <a href="https://t.me/glrrybot">here</a>.
+                    access via Telegram by clicking <a href="#">here</a>.
                     *telegram account is required*
                   </p>
                   <p className="fs_md fw_regular ff_arial color_primary line_height30 pt-4">
