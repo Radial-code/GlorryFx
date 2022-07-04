@@ -3,8 +3,8 @@ import logo from "../assets/img/Webp/navlogo.webp";
 import insta from "../assets/img/Webp/instgram-icon.webp";
 import twitter from "../assets/img/Webp/twitter-icon.webp";
 import teligram from "../assets/img/Webp/teligram-icon.webp";
-import cart from "../assets/img/Webp/cart-img.webp";
 import { Link, withRouter } from "react-router-dom";
+
 const Hero = () => {
   const [navOverlay, setNavOverlay] = useState(false);
   if (navOverlay) {

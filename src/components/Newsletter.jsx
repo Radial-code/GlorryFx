@@ -1,9 +1,6 @@
-import React from "react";
-import Newsletterimg from "../assets/img/Webp/Newsletter-img.webp";
-import massageimg from "../assets/img/Webp/sms-icon.webp";
-import teligramimg from "../assets/img/Webp/newsletter-teliegram-img.webp";
 import blueshadowimg from "../assets/img/Webp/blueshadow.png";
 import smallblueshade from "../assets/img/Webp/newsletter-blueshade-sm.webp";
+import Newsletterimg from "../assets/img/Webp/Newsletter-img.webp";
 
 const Newsletter = () => {
   return (

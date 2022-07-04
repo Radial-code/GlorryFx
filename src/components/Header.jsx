@@ -1,5 +1,3 @@
-import React, { useState } from "react";
-
 import heroimg from "../assets/img/Webp/hero-section-img.webp";
 import lineimg from "../assets/img/Webp/hero-bg-img.webp";
 import overlay from "../assets/img/Webp/hero-bottom-overlay.webp";

@@ -1,8 +1,3 @@
-import React from "react";
-import phnimg from "../assets/img/Webp/velit-tempor-img.webp";
-import whiteshadow from "../assets/img/Webp/velit-tempor-shadow.webp";
-import phone from "../assets/img/Webp/grp-of-phones.webp";
-import mdphones from "../assets/img/Webp/grp-md-phones.webp";
 import linesimage from "../assets/img/Webp/lines-image.webp";
 
 const Velittempor = () => {
