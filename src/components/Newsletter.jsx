@@ -49,27 +49,12 @@ const Newsletter = () => {
                   Subscribe to Our Newsletter
                 </h3>
                 <p className="para">Never miss out on new product launches!</p>
-                <div className=" d-flex align-items-center justify-content-between mt-4 input_box">
-                  <div className="col-6">
-                    <div className="d-flex align-items-center">
-                      <img
-                        className="px-2  d-none d-xl-block"
-                        src={massageimg}
-                        height="10"
-                        width="30"
-                        alt="sms-icon"
-                      />
-                      <input
-                        className="input_bg ps-2 ps-xl-0  fs_3xs fw_regular text-dark ff_arial"
-                        type="text"
-                        placeholder="Enter Your E-mail"
-                      />
-                    </div>
-                  </div>
-                  <button className="subscribe_btn">
-                    <img className="pe-2" src={teligramimg} alt="teligramimg" />{" "}
-                    Subscribe
-                  </button>
+                {/* NEWSLETTER  BOX  */}
+                <div>
+                  <div
+                    className="ml-embedded style-newsletter-box"
+                    data-form="2Z58IV"
+                  ></div>
                 </div>
               </div>
             </div>

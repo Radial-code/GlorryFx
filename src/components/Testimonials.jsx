@@ -1,5 +1,4 @@
 import React from "react";
-import mainimg from "../assets/img/Webp/testimonials-main-img.webp";
 import comma1 from "../assets/img/Webp/testimonials-comma-1.webp";
 import comma2 from "../assets/img/Webp/testimonials-comma-2.webp";
 

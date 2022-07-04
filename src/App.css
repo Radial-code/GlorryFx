@@ -1,43 +1,3 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-
-  to {
-    transform: rotate(360deg);
-  }
-}
-
 @import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
 
@@ -738,4 +698,81 @@ input {
   .line_sm_rg {
     line-height: 50px !important;
   }
+}
+
+.style-newsletter-box .ml-form-embedWrapper {
+  background-color: transparent !important;
+}
+
+.style-newsletter-box .ml-form-embedWrapper form {
+  display: flex;
+  align-items: center;
+}
+
+.style-newsletter-box
+  #mlb2-809662.ml-form-embedContainer
+  .ml-form-embedWrapper
+  .ml-form-embedBody
+  .ml-form-fieldRow
+  input {
+  width: 220px !important;
+  height: 50px;
+  border-radius: 6px 0 0 6px !important;
+  padding-left: 10px !important;
+}
+
+.style-newsletter-box
+  #mlb2-809662.ml-form-embedContainer
+  .ml-form-embedWrapper
+  .ml-form-embedBody
+  .ml-form-embedSubmit
+  button {
+  font-size: var(--fs_input_btn) !important;
+  font-weight: var(--fw_bold) !important;
+  font-family: var(--ff_raleway) !important;
+  color: var(--color_primary) !important;
+  padding: 14px 18px 14px 18px !important;
+  height: 50px !important;
+  border: none !important;
+  outline: none !important;
+  background: linear-gradient(90deg, #1488cc 0%, #2b32b2 100%), #d9d9d9 !important;
+  border-radius: 0px 5.47231px 5.47231px 0px !important;
+  border-radius: 0px 6px 6px 0px !important;
+}
+
+.style-newsletter-box
+  #mlb2-809662.ml-form-embedContainer
+  .ml-form-embedWrapper
+  .ml-form-embedBody
+  .ml-form-embedContent,
+#mlb2-809662.ml-form-embedContainer
+  .ml-form-embedWrapper
+  .ml-form-successBody
+  .ml-form-successContent
+  h4 {
+  color: white !important;
+  font-family: var(--ff_raleway) !important;
+}
+
+.style-newsletter-box
+  #mlb2-809662.ml-form-embedContainer
+  .ml-form-embedWrapper
+  .ml-form-embedBody
+  .ml-form-embedContent,
+#mlb2-809662.ml-form-embedContainer
+  .ml-form-embedWrapper
+  .ml-form-successBody
+  .ml-form-successContent
+  p {
+  color: white !important;
+  font-family: var(--ff_raleway) !important;
+}
+
+#mlb2-809662.ml-form-embedContainer .ml-form-align-center {
+  text-align: start !important;
+}
+
+#mlb2-809662.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody,
+#mlb2-809662.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody {
+  padding-left: 0 !important;
 }
